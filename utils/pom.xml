@@ -21,7 +21,7 @@
         <v.apache.commons-crypto>1.0.0</v.apache.commons-crypto>
         <!-- others -->
         <!-- 集合操作（不可变集合） -->
-        <v.google.guava>28.2-jre</v.google.guava>
+        <v.google.guava>29.0-jre</v.google.guava>
         <!-- 日期时间操作 -->
         <v.joda.time>2.10.5</v.joda.time>
         <!-- 字节码操作 -->
