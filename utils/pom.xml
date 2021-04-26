@@ -17,7 +17,7 @@
         <v.apache.commons-lang3>3.9</v.apache.commons-lang3>
         <v.apache.commons-codec>1.14</v.apache.commons-codec>
         <v.apache.commons-beanutils>1.9.4</v.apache.commons-beanutils>
-        <v.apache.commons-io>2.6</v.apache.commons-io>
+        <v.apache.commons-io>2.7</v.apache.commons-io>
         <v.apache.commons-crypto>1.0.0</v.apache.commons-crypto>
         <!-- others -->
         <!-- 集合操作（不可变集合） -->
